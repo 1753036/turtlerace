@@ -1,0 +1,19 @@
+# Fox stand animation
+Fox---Design-1.gif
+Fox---Design-2.gif
+# Fox run animation
+Fox---Run-1.gif
+Fox---Run-2.gif
+Fox---Run-3.gif
+Fox---Run-2.gif
+# Fox runback animation
+Fox---Run-Back-1.gif
+Fox---Run-Back-2.gif
+Fox---Run-Back-3.gif
+Fox---Run-Back-2.gif
+# Fox win animation
+Fox---Win-1.gif
+Fox---Win-2.gif
+# Fox lose animation
+Fox---Lose-1.gif
+Fox---Lose-2.gif

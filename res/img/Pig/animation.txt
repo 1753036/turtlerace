@@ -1,0 +1,19 @@
+# Pig stand animation
+Pig---Design-1.gif
+Pig---Design-2.gif
+# Pig run animation
+Pig---Run-1.gif
+Pig---Run-2.gif
+Pig---Run-3.gif
+Pig---Run-2.gif
+# Pig runback animation
+Pig---Run-Back-1.gif
+Pig---Run-Back-2.gif
+Pig---Run-Back-3.gif
+Pig---Run-Back-2.gif
+# Pig win animation
+Pig---Win-1.gif
+Pig---Win-2.gif
+# Pig lose animation
+Pig---Lose-1.gif
+Pig---Lose-2.gif

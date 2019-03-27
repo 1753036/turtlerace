@@ -1,0 +1,19 @@
+# Dog stand animation
+Dog---Design-1.gif
+Dog---Design-2.gif
+# Dog run animation
+Dog---Run-1.gif
+Dog---Run-2.gif
+Dog---Run-3.gif
+Dog---Run-2.gif
+# Dog runback animation
+Dog---Run-Back-1.gif
+Dog---Run-Back-2.gif
+Dog---Run-Back-3.gif
+Dog---Run-Back-2.gif
+# Dog win animation
+Dog---Win-1.gif
+Dog---Win-2.gif
+# Dog lose animation
+Dog---Lose-1.gif
+Dog---Lose-2.gif

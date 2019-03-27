@@ -1,0 +1,19 @@
+# Chicken stand animation
+Chicken---Design-1.gif
+Chicken---Design-2.gif
+# Chicken run animation
+Chicken---Run-1.gif
+Chicken---Run-2.gif
+Chicken---Run-3.gif
+Chicken---Run-2.gif
+# Chicken runback animation
+Chicken---Run-Back-1.gif
+Chicken---Run-Back-2.gif
+Chicken---Run-Back-3.gif
+Chicken---Run-Back-2.gif
+# Chicken win animation
+Chicken---Win-1.gif
+Chicken---Win-2.gif
+# Chicken lose animation
+Chicken---Lose-1.gif
+Chicken---Lose-2.gif

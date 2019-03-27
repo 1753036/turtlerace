@@ -1,0 +1,19 @@
+# Cat stand animation
+Cat---Design-1.gif
+Cat---Design-2.gif
+# Cat run animation
+Cat---Run-1.gif
+Cat---Run-2.gif
+Cat---Run-3.gif
+Cat---Run-2.gif
+# Cat runback animation
+Cat---Run-Back-1.gif
+Cat---Run-Back-2.gif
+Cat---Run-Back-3.gif
+Cat---Run-Back-2.gif
+# Cat win animation
+Cat---Win-1.gif
+Cat---Win-2.gif
+# Cat lose animation
+Cat---Lose-1.gif
+Cat---Lose-2.gif
